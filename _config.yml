@@ -1,0 +1,28 @@
+name: Jim J
+favicon: null
+layout_spectrum: 0.6033782411832362
+typography_spectrum: 0.4833806899841875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7502422172110528
+  lightness: 0.06712988344952464
+  saturation: 0.7553236752282828
+  rhythmicContrast: 0.7994175197090954
+purpose: []
