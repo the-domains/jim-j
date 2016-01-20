@@ -1,7 +1,7 @@
 name: Jim J
 favicon: null
-layout_spectrum: 0.6033782411832362
-typography_spectrum: 0.4833806899841875
+layout_spectrum: 0.93691
+typography_spectrum: 0.06195
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.7502422172110528
+    - '#40413b'
+    - '#848580'
+    - '#221912'
+    - '#8c5b4c'
+    - '#612f14'
+  brandStrength: 0.75
   lightness: 0.06712988344952464
   saturation: 0.7553236752282828
   rhythmicContrast: 0.7994175197090954
